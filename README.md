@@ -1,4 +1,4 @@
-## Hi my name is RJ 👋
+## Hi I'm RJ 👋
 
 # Data Analytics, Business Intelligence, & Data Science Specialist
 ### What I do
