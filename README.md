@@ -19,8 +19,8 @@ I am currently enrolled in the WGU Masters of Science in Data Analytics. Through
 - Data Science: Hypothesis testing (Linear Regression, T-Test, ANOVA, Chi-Squared), statistics, ETL, data pipeline (cleansing, wrangling, visualization, modeling, interpretation), time series, experiment design, A/B testing, predictive analytics, econometrics, data mining, data modeling
 
 ## Experience
-SpartanNash
-Business Intelligence Analyst/Developer (E-commerce/Marketing) 
+### SpartanNash
+#### Business Intelligence Analyst/Developer (E-commerce/Marketing) 
 - Scaling and deploying machine learning model for sales forecasting on Snowflake, increasing mean accuracy of forecast by 12% and reducing man-hours spent on manual creation of forecast
 - Implementing Snowflake LLM's with LLaMA integration to generate context for marketing data and applying these to models like Apriori, generating over 1,000,00 rows of context
 - Developing Power BI semantic model to be used across team. Working to create, maintain, and utilize proper development, UAT, and production pipelines and workspaces for development in environment of 100+ reports
