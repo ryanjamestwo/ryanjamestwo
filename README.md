@@ -18,6 +18,17 @@ I am currently enrolled in the WGU Masters of Science in Data Analytics. Through
 - BI: Snowflake, SQL, Power BI (Data Visualization), Excel, Postgres, Azure, DevOps, change management
 - Data Science: Hypothesis testing (Linear Regression, T-Test, ANOVA, Chi-Squared), statistics, ETL, data pipeline (cleansing, wrangling, visualization, modeling, interpretation), time series, experiment design, A/B testing, predictive analytics, econometrics, data mining, data modeling
 
+## Experience
+SpartanNash
+Business Intelligence Analyst/Developer (E-commerce/Marketing) 
+- Scaling and deploying machine learning model for sales forecasting on Snowflake, increasing mean accuracy of forecast by 12% and reducing man-hours spent on manual creation of forecast
+- Implementing Snowflake LLM's with LLaMA integration to generate context for marketing data and applying these to models like Apriori, generating over 1,000,00 rows of context
+- Developing Power BI semantic model to be used across team. Working to create, maintain, and utilize proper development, UAT, and production pipelines and workspaces for development in environment of 100+ reports
+- Utilizing communication skills to create slide deck and present to VP of Data on ML use cases and ML Ops processes that could be implemented, and getting green-lit to develop and productionalize
+- Query and visualize large tables of data with over 2,000,000,000 rows of retail and sales data on Azure hosted data lake. Utilizing SQL, Power BI, and Snowflake for reporting and analysis.
+- Collaborate with marketing, retail, and finance teams to align on business requirements for prioritization, develop Power BI reports, and present to executive leadership on analysis findings
+- Developing and enforcing CI/CD version control and compliance processes for Power BI developers creating reports. Reduced report inconsistencies by up to 50%
+- Participation in daily scrum and Agile methodology using Jira and Kanban boards, working with cross functional team to ensure deliverables are completed in an efficient and timely manner
 
 
 
