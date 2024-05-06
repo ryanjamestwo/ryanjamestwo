@@ -1,6 +1,6 @@
-# Hi my name is RJ 👋
+## Hi my name is RJ 👋
 
-## Data Analytics, Business Intelligence, & Data Science Specialist
+# Data Analytics, Business Intelligence, & Data Science Specialist
 ### What I do
 I’m a highly motivated and results-driven Business Intelligence and Data Analyst with a passion for data science and a background in economics, data analytics, and experience at a Fortune 300 company. My journey in the world of analytics has been both exciting and rewarding, allowing me to leverage cutting-edge technologies like Snowflake, Power BI, and other tools to drive data-informed decisions.
 
