@@ -13,6 +13,10 @@ I received my bachelor’s degree in economics from UC Irvine: a top 10 public r
 #### Masters of Science, Data Analytics
 I am currently enrolled in the WGU Masters of Science in Data Analytics. Through this program I developed a mastery of key data analytics and data science concepts such as data acquisition, data cleaning, exploratory data analysis, predictive modeling, data mining, and data reporting.
 
+## Skills
+- Programming: Python (Pandas, Meta Prophet, Scipy, NumPy, Matplotlib), Git
+- BI: Snowflake, SQL, Power BI (Data Visualization), Excel, Postgres, Azure, DevOps, change management
+- Data Science: Hypothesis testing (Linear Regression, T-Test, ANOVA, Chi-Squared), statistics, ETL, data pipeline (cleansing, wrangling, visualization, modeling, interpretation), time series, experiment design, A/B testing, predictive analytics, econometrics, data mining, data modeling
 
 
 
